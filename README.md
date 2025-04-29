@@ -14,4 +14,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
 </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabemed&show_icons=true&theme=radical&locale=en&layout=compact" alt="gabemed" /></p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabemed&show_icons=true&theme=transparent&locale=en&layout=compact" alt="gabemed" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GabeMed&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&hide=contribs,issues&show_icons=true&line_height=31&card_width=488px" alt="gabemed"/>
+</p>
