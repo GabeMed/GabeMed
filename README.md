@@ -50,9 +50,10 @@
 <br/>
 
 ### ⚡ Engineering Metrics
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabemed&show_icons=true&theme=transparent&locale=en&layout=compact" alt="gabemed" />
-<img src="https://github-readme-stats.vercel.app/api?username=GabeMed&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&hide=contribs,issues&show_icons=true&line_height=31&card_width=488px" alt="gabemed"/>
+<div align="center">
+  <img src="https://github-readme-stats-eight-flax-41.vercel.app/api?username=GabeMed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats-eight-flax-41.vercel.app/api/top-langs?username=GabeMed&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180" alt="languages graph" />
+</div>
 <br/>
 
 ### 🛠️ Strong Points
