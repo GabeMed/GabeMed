@@ -51,11 +51,8 @@
 
 ### ⚡ Engineering Metrics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabeMed&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=contribs,issues&show_icons=true&line_height=31&card_width=488px" height="180" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabemed&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" height="180" alt="languages graph" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabemed&show_icons=true&theme=transparent&locale=en&layout=compact" alt="gabemed" />
+<img src="https://github-readme-stats.vercel.app/api?username=GabeMed&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&hide=contribs,issues&show_icons=true&line_height=31&card_width=488px" alt="gabemed"/>
 <br/>
 
 ### 🛠️ Strong Points
