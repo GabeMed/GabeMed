@@ -3,7 +3,7 @@
   <h1 align="center">Gabriel Medeiros</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=33CCFF&center=true&vCenter=true&width=500&lines=Research+Intern+(ML/AI+%26+Optimization);Full+Stack+Engineer;DS+%26+and+Algorithms" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=33CCFF&center=true&vCenter=true&width=500&lines=Research+Intern+(ML/AI+%26+Optimization);Software+Engineer;DS+%26+and+Algorithms" alt="Typing SVG" />
   </a>
 
   <p align="center">
