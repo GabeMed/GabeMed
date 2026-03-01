@@ -63,7 +63,7 @@
 - **Stack:** Heavy focus on **FastAPI**, **NestJS - Typescript** and **ReactJS - Typescript**
 <br/>
 
-### 🔭 Current Learning: Basic Architecture & DevOps
+### 🔭 Current Learning: Software Architecture + DevOps + Data Science
 
 <div align="center">
   <p><i>Adding System Architecture/Design to my Software Engineering skills</i></p>
