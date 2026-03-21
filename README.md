@@ -52,7 +52,7 @@
 ### ⚡ Engineering Metrics
 <div align="center">
   <img src="https://github-readme-stats-eight-flax-41.vercel.app/api?username=GabeMed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats-eight-flax-41.vercel.app/api/top-langs?username=GabeMed&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&langs_count=12" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats-eight-flax-41.vercel.app/api/top-langs?username=GabeMed&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&hide=html,css,matlab" height="180" alt="languages graph" />
 </div>
 <br/>
 
