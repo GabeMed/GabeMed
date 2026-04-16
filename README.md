@@ -7,7 +7,7 @@
   </a>
 
   <p align="center">
-    <i>An undergrad bridging the gap between academic research and high-impact product development.</i>
+    <i>An undergrad with interest in academic research and software engineering.</i>
   </p>
   
   <br/>
