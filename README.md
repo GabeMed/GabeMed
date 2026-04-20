@@ -60,7 +60,7 @@
 
 - **Product Design:** Building scalable products for Fintech.
 - **Research:** Explainable AI (XAI) counterfactuals & Optimization (MILP + Neural Networks).
-- **Stack:** Heavy focus on **FastAPI**, **NestJS - Typescript** and **ReactJS - Typescript**
+- **Stack:** **FastAPI**, **LangGraph - LangChain**, **NestJS, ExpressJS - Typescript** and **ReactJS - Typescript**.
 <br/>
 
 ### 🔭 Current Learning: Software Architecture + DevOps + Data Science
