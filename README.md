@@ -58,8 +58,7 @@
 
 ### 🛠️ Strong Points
 
-- **Product Design:** Building scalable products for Fintech.
-- **Research:** Explainable AI (XAI) counterfactuals & Optimization (MILP + Neural Networks).
+- **Academic:** Explainable AI (XAI) counterfactuals & Optimization (MILP + Neural Networks).
 - **Stack:** **FastAPI**, **LangGraph - LangChain**, **NestJS, ExpressJS - Typescript** and **ReactJS - Typescript**.
 <br/>
 
