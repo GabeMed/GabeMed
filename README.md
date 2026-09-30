@@ -37,6 +37,19 @@
 <tr><td width="32%" valign="top"><a href="https://github.com/GabeMed/CEOs-Project-IMU"><b><code>CEOs-Project-IMU</code></b></a><br><a href="https://github.com/GabeMed/CEOs-Project-IMU/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/GabeMed/CEOs-Project-IMU/actions/workflows/ci.yml/badge.svg"></a><br><sub>C++&nbsp;· PlatformIO</sub></td><td valign="top">ESP32 firmware: fuses an ICM-20948 9-axis IMU with a Mahony filter and outputs orientation at <b>50 Hz</b>.</td></tr>
 </table>
 
+## Telemetry
+
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/telemetry/telemetry-dark-narrow.svg">
+  <source media="(max-width: 600px)" srcset="assets/telemetry/telemetry-light-narrow.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/telemetry/telemetry-dark.svg">
+  <img alt="GitHub telemetry for the last 12 months: total contributions and the share made in private repos, weekly contributions drawn as a trace, contributions per year, and activity counts." src="assets/telemetry/telemetry-light.svg" width="100%">
+</picture>
+</p>
+
+<sub>Regenerated daily from the GitHub GraphQL API by <a href="scripts/telemetry.py"><code>scripts/telemetry.py</code></a>. Private repos count toward the totals; none are named.</sub>
+
 ## Timeline
 
 <table>
