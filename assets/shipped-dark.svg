@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="116" viewBox="0 0 860 116" role="img" aria-labelledby="mdwt mdwd">
+<title id="mdwt">Shipped: key numbers</title>
+<desc id="mdwd">Reconciliation: 40 s vs 2m50s (OR-Tools CP · ≈4×); Full MVP: 72 h (Camada AI · 2025); Avionics lead: IREC 2025 (IME rocketry · ESP32); From scratch: GPT-2 (PyTorch · IMPA 2024)</desc>
+<style>text{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace;}</style>
+<rect x=".5" y=".5" width="859" height="115" rx="9.5" fill="#010409" stroke="#30363d"/>
+<path d="M215.5 14V102M430.5 14V102M645.5 14V102" stroke="#30363d"/>
+<text x="22" y="34" font-size="10.5" fill="#8b949e" letter-spacing=".1em">RECONCILIATION</text>
+<text x="193" y="34" font-size="10.5" fill="#3d444d" text-anchor="end">01</text>
+<text x="22" y="75" font-size="30"><tspan fill="#56d4bb" font-weight="600">40</tspan><tspan fill="#56d4bb" font-size="18"> s</tspan><tspan fill="#8b949e" font-size="14" dx="8.4">vs 2m50s</tspan></text>
+<text x="22" y="99" font-size="12" fill="#e6edf3" fill-opacity=".82">OR-Tools CP · ≈4×</text>
+<text x="237" y="34" font-size="10.5" fill="#8b949e" letter-spacing=".1em">FULL MVP</text>
+<text x="408" y="34" font-size="10.5" fill="#3d444d" text-anchor="end">02</text>
+<text x="237" y="75" font-size="30"><tspan fill="#56d4bb" font-weight="600">72</tspan><tspan fill="#56d4bb" font-size="18"> h</tspan></text>
+<text x="237" y="99" font-size="12" fill="#e6edf3" fill-opacity=".82">Camada AI · 2025</text>
+<text x="452" y="34" font-size="10.5" fill="#8b949e" letter-spacing=".1em">AVIONICS LEAD</text>
+<text x="623" y="34" font-size="10.5" fill="#3d444d" text-anchor="end">03</text>
+<text x="452" y="75" font-size="30"><tspan fill="#56d4bb" font-weight="600">IREC 2025</tspan></text>
+<text x="452" y="99" font-size="12" fill="#e6edf3" fill-opacity=".82">IME rocketry · ESP32</text>
+<text x="667" y="34" font-size="10.5" fill="#8b949e" letter-spacing=".1em">FROM SCRATCH</text>
+<text x="838" y="34" font-size="10.5" fill="#3d444d" text-anchor="end">04</text>
+<text x="667" y="75" font-size="30"><tspan fill="#56d4bb" font-weight="600">GPT-2</tspan></text>
+<text x="667" y="99" font-size="12" fill="#e6edf3" fill-opacity=".82">PyTorch · IMPA 2024</text>
+</svg>
