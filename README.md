@@ -23,14 +23,37 @@
 
 ## Code you can check
 
+<p align="center">
+<a href="https://github.com/GabeMed/eeg-mental-state-classifier"><picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/cards/eeg-mental-state-classifier-dark-narrow.svg">
+  <source media="(max-width: 600px)" srcset="assets/cards/eeg-mental-state-classifier-light-narrow.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/cards/eeg-mental-state-classifier-dark.svg">
+  <img alt="eeg-mental-state-classifier: 3-class EEG mental-state classifier (relaxed, neutral, concentrating) with leakage-aware cross-validation. Figure: XGBoost confusion matrix on the 473-row held-out test set. Test macro-F1 0.970 for XGBoost vs 0.953 for logistic regression." src="assets/cards/eeg-mental-state-classifier-light.svg" width="416">
+</picture></a>
+<a href="https://github.com/GabeMed/micrograd"><picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/cards/micrograd-dark-narrow.svg">
+  <source media="(max-width: 600px)" srcset="assets/cards/micrograd-light-narrow.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/cards/micrograd-dark.svg">
+  <img alt="micrograd: scalar autograd engine plus a NumPy statevector simulator trained with the parameter-shift rule. Figure: make_moons decision boundaries of a 25-parameter MLP (2-6-1) and a 26-parameter 2-qubit, 3-layer variational circuit. Mean test accuracy over 5 seeds: circuit 97.5%, MLP 99.4%. No quantum advantage." src="assets/cards/micrograd-light.svg" width="416">
+</picture></a>
+<a href="https://github.com/GabeMed/panorama-stitching"><picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/cards/panorama-stitching-dark-narrow.svg">
+  <source media="(max-width: 600px)" srcset="assets/cards/panorama-stitching-light-narrow.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/cards/panorama-stitching-dark.svg">
+  <img alt="panorama-stitching: DLT + RANSAC homography implemented from scratch in NumPy. Figure: the stitched panorama of the synthetic test pair, with view A perspective-warped into view B's frame. Mean corner error against the known ground-truth homography: 1.93 px (OpenCV: 1.20 px)." src="assets/cards/panorama-stitching-light.svg" width="416">
+</picture></a>
+<a href="https://github.com/GabeMed/personal-financial-manager"><picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/cards/personal-financial-manager-dark-narrow.svg">
+  <source media="(max-width: 600px)" srcset="assets/cards/personal-financial-manager-light-narrow.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/cards/personal-financial-manager-dark.svg">
+  <img alt="personal-financial-manager: personal finance tracker with a FastAPI and PostgreSQL backend and a React and TypeScript frontend; one docker compose up runs the full stack. Figure: the dashboard with the balance, an expense breakdown by category and the transaction list. 38 API tests; CI on SQLite and Postgres." src="assets/cards/personal-financial-manager-light.svg" width="416">
+</picture></a>
+</p>
+
 <table>
 <tr><th align="left">Repo</th><th align="left">What it shows</th></tr>
-<tr><td width="32%" valign="top"><a href="https://github.com/GabeMed/eeg-mental-state-classifier"><b><code>eeg-mental-state-classifier</code></b></a><br><a href="https://github.com/GabeMed/eeg-mental-state-classifier/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/GabeMed/eeg-mental-state-classifier/actions/workflows/ci.yml/badge.svg"></a><br><sub>Python&nbsp;· scikit-&#8288;learn&nbsp;· XGBoost</sub></td><td valign="top">3-class EEG classifier with leakage-aware cross-validation. Test macro-F1 <b>0.970</b> (XGBoost) vs <b>0.953</b> (logistic regression); 33 tests.</td></tr>
-<tr><td width="32%" valign="top"><a href="https://github.com/GabeMed/micrograd"><b><code>micrograd</code></b></a><br><a href="https://github.com/GabeMed/micrograd/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/GabeMed/micrograd/actions/workflows/ci.yml/badge.svg"></a><br><sub>Python&nbsp;· NumPy</sub></td><td valign="top">Scalar autograd engine (after Karpathy's micrograd) plus a NumPy statevector simulator; gradients match PyTorch and PennyLane to <b>1e-&#8288;10</b>. On make_moons a 26-parameter circuit reaches <b>97.5%</b>, a 25-parameter MLP <b>99.4%</b>: no quantum advantage.</td></tr>
 <tr><td width="32%" valign="top"><a href="https://github.com/GabeMed/Sanctum"><b><code>Sanctum</code></b></a><br><a href="https://github.com/GabeMed/Sanctum/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/GabeMed/Sanctum/actions/workflows/ci.yml/badge.svg"></a><br><sub>Go&nbsp;· PostgreSQL</sub></td><td valign="top">Append-only journal API with <b>AES-&#8288;256-&#8288;GCM</b> envelope encryption. <code>go&nbsp;test&nbsp;-race</code> against a real Postgres in CI; passes gosec and govulncheck.</td></tr>
-<tr><td width="32%" valign="top"><a href="https://github.com/GabeMed/personal-financial-manager"><b><code>personal-financial-manager</code></b></a><br><a href="https://github.com/GabeMed/personal-financial-manager/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/GabeMed/personal-financial-manager/actions/workflows/ci.yml/badge.svg"></a><br><sub>FastAPI&nbsp;· PostgreSQL&nbsp;· React&nbsp;· TypeScript</sub></td><td valign="top">Finance tracker; one <code>docker&nbsp;compose&nbsp;up</code> runs the full stack. <b>38</b> API tests, CI on SQLite and Postgres.</td></tr>
 <tr><td width="32%" valign="top"><a href="https://github.com/GabeMed/SmartInvestor"><b><code>SmartInvestor</code></b></a><br><a href="https://github.com/GabeMed/SmartInvestor/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/GabeMed/SmartInvestor/actions/workflows/ci.yml/badge.svg"></a><br><sub>Django&nbsp;· Celery&nbsp;· Redis</sub></td><td valign="top">Pulls BRAPI quotes for <b>~2,000</b> Brazilian tickers every hour and e-mails a buy or sell alert when a watched price reaches either end of its range. <b>33</b> tests, BRAPI mocked.</td></tr>
-<tr><td width="32%" valign="top"><a href="https://github.com/GabeMed/panorama-stitching"><b><code>panorama-stitching</code></b></a><br><a href="https://github.com/GabeMed/panorama-stitching/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/GabeMed/panorama-stitching/actions/workflows/ci.yml/badge.svg"></a><br><sub>Python&nbsp;· NumPy&nbsp;· OpenCV</sub></td><td valign="top">DLT + RANSAC homography from scratch. Stays sub-pixel with <b>60%</b> injected outliers; <b>1.93 px</b> mean corner error on a synthetic pair with known ground truth (OpenCV: 1.20 px).</td></tr>
 <tr><td width="32%" valign="top"><a href="https://github.com/GabeMed/CEOs-Project-IMU"><b><code>CEOs-Project-IMU</code></b></a><br><a href="https://github.com/GabeMed/CEOs-Project-IMU/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/GabeMed/CEOs-Project-IMU/actions/workflows/ci.yml/badge.svg"></a><br><sub>C++&nbsp;· PlatformIO</sub></td><td valign="top">ESP32 firmware: fuses an ICM-20948 9-axis IMU with a Mahony filter and outputs orientation at <b>50 Hz</b>.</td></tr>
 </table>
 
