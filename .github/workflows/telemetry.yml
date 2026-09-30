@@ -1,0 +1,49 @@
+name: Telemetry
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+  # Dry run on pull requests that touch the generator: renders, never commits.
+  pull_request:
+    paths:
+      - scripts/telemetry.py
+      - .github/workflows/telemetry.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: telemetry-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Render SVGs
+        env:
+          # Optional read-only PAT that can see private repos; without it the
+          # panel leaves out the merged-PR total.
+          STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/telemetry.py
+
+      - name: Show changes
+        run: git status --short assets/telemetry
+
+      - name: Commit if changed
+        if: github.event_name != 'pull_request'
+        run: |
+          git add assets/telemetry
+          if git diff --cached --quiet; then
+            echo "No change."
+            exit 0
+          fi
+          git -c user.name="github-actions[bot]" \
+              -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+              commit -m "Update telemetry"
+          git push || { git pull --rebase && git push; }
