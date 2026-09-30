@@ -2,7 +2,7 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/header-dark-narrow.svg">
   <source media="(max-width: 600px)" srcset="assets/header-light-narrow.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Gabriel Medeiros. Computer Engineering @ IME (2nd in class) · Founding engineer ×2 (Baze, Camada AI) · ML research @ Purdue" src="assets/header-light.svg" width="100%">
+  <img alt="Gabriel Medeiros. Computer Engineering @ IME · #2, civilian track · Founding engineer ×2 (Baze, Camada AI) · ML research @ Purdue" src="assets/header-light.svg" width="100%">
 </picture>
 
 ## Shipped
@@ -50,7 +50,7 @@
 <tr><td nowrap valign="top"><code>2023</code></td><td valign="top"><b>Vinci Partners.</b> Summer intern, Jan–Mar: IGP-M and IPC inflation forecasting in R with time-aware cross-validation.</td></tr>
 </table>
 
-**Education.** IME (Instituto Militar de Engenharia), Computer Engineering, civilian track (about 15 civilian seats a year nationwide). 2nd in class; graduating Dec 2026.
+**Education.** IME (Instituto Militar de Engenharia), Computer Engineering. **Ranked 2nd in the civilian track** (about 15 civilian seats a year nationwide). Graduating Dec 2026.
 
 ## Stack
 
