@@ -24,30 +24,10 @@
 ## Code you can check
 
 <p align="center">
-<a href="https://github.com/GabeMed/eeg-mental-state-classifier"><picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/cards/eeg-mental-state-classifier-dark-narrow.svg">
-  <source media="(max-width: 600px)" srcset="assets/cards/eeg-mental-state-classifier-light-narrow.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/cards/eeg-mental-state-classifier-dark.svg">
-  <img alt="eeg-mental-state-classifier: 3-class EEG mental-state classifier (relaxed, neutral, concentrating) with leakage-aware cross-validation. Figure: XGBoost confusion matrix on the 473-row held-out test set. Test macro-F1 0.970 for XGBoost vs 0.953 for logistic regression." src="assets/cards/eeg-mental-state-classifier-light.svg" width="416">
-</picture></a>
-<a href="https://github.com/GabeMed/micrograd"><picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/cards/micrograd-dark-narrow.svg">
-  <source media="(max-width: 600px)" srcset="assets/cards/micrograd-light-narrow.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/cards/micrograd-dark.svg">
-  <img alt="micrograd: scalar autograd engine plus a NumPy statevector simulator trained with the parameter-shift rule. Figure: make_moons decision boundaries of a 25-parameter MLP (2-6-1) and a 26-parameter 2-qubit, 3-layer variational circuit. Mean test accuracy over 5 seeds: circuit 97.5%, MLP 99.4%. No quantum advantage." src="assets/cards/micrograd-light.svg" width="416">
-</picture></a>
-<a href="https://github.com/GabeMed/panorama-stitching"><picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/cards/panorama-stitching-dark-narrow.svg">
-  <source media="(max-width: 600px)" srcset="assets/cards/panorama-stitching-light-narrow.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/cards/panorama-stitching-dark.svg">
-  <img alt="panorama-stitching: DLT + RANSAC homography implemented from scratch in NumPy. Figure: the stitched panorama of the synthetic test pair, with view A perspective-warped into view B's frame. Mean corner error against the known ground-truth homography: 1.93 px (OpenCV: 1.20 px)." src="assets/cards/panorama-stitching-light.svg" width="416">
-</picture></a>
-<a href="https://github.com/GabeMed/personal-financial-manager"><picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/cards/personal-financial-manager-dark-narrow.svg">
-  <source media="(max-width: 600px)" srcset="assets/cards/personal-financial-manager-light-narrow.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/cards/personal-financial-manager-dark.svg">
-  <img alt="personal-financial-manager: personal finance tracker with a FastAPI and PostgreSQL backend and a React and TypeScript frontend; one docker compose up runs the full stack. Figure: the dashboard with the balance, an expense breakdown by category and the transaction list. 38 API tests; CI on SQLite and Postgres." src="assets/cards/personal-financial-manager-light.svg" width="416">
-</picture></a>
+<a href="https://github.com/GabeMed/eeg-mental-state-classifier"><picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/cards/eeg-mental-state-classifier-dark-narrow.svg"><source media="(max-width: 600px)" srcset="assets/cards/eeg-mental-state-classifier-light-narrow.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/cards/eeg-mental-state-classifier-dark.svg"><img alt="eeg-mental-state-classifier: 3-class EEG mental-state classifier (relaxed, neutral, concentrating) with leakage-aware cross-validation. Figure: XGBoost confusion matrix on the 473-row held-out test set. Test macro-F1 0.970 for XGBoost vs 0.953 for logistic regression." src="assets/cards/eeg-mental-state-classifier-light.svg" width="416"></picture></a>
+<a href="https://github.com/GabeMed/micrograd"><picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/cards/micrograd-dark-narrow.svg"><source media="(max-width: 600px)" srcset="assets/cards/micrograd-light-narrow.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/cards/micrograd-dark.svg"><img alt="micrograd: scalar autograd engine plus a NumPy statevector simulator trained with the parameter-shift rule. Figure: make_moons decision boundaries of a 25-parameter MLP (2-6-1) and a 26-parameter 2-qubit, 3-layer variational circuit. Mean test accuracy over 5 seeds: circuit 97.5%, MLP 99.4%. No quantum advantage." src="assets/cards/micrograd-light.svg" width="416"></picture></a>
+<a href="https://github.com/GabeMed/panorama-stitching"><picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/cards/panorama-stitching-dark-narrow.svg"><source media="(max-width: 600px)" srcset="assets/cards/panorama-stitching-light-narrow.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/cards/panorama-stitching-dark.svg"><img alt="panorama-stitching: DLT + RANSAC homography implemented from scratch in NumPy. Figure: the stitched panorama of the synthetic test pair, with view A perspective-warped into view B's frame. Mean corner error against the known ground-truth homography: 1.93 px (OpenCV: 1.20 px)." src="assets/cards/panorama-stitching-light.svg" width="416"></picture></a>
+<a href="https://github.com/GabeMed/personal-financial-manager"><picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/cards/personal-financial-manager-dark-narrow.svg"><source media="(max-width: 600px)" srcset="assets/cards/personal-financial-manager-light-narrow.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/cards/personal-financial-manager-dark.svg"><img alt="personal-financial-manager: personal finance tracker with a FastAPI and PostgreSQL backend and a React and TypeScript frontend; one docker compose up runs the full stack. Figure: the dashboard with the balance, an expense breakdown by category and the transaction list. 38 API tests; CI on SQLite and Postgres." src="assets/cards/personal-financial-manager-light.svg" width="416"></picture></a>
 </p>
 
 <table>
