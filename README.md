@@ -82,6 +82,6 @@
 <p align="center">
   <b>Contact.</b>
   <a href="https://linkedin.com/in/gabriel-medeiros-374a3b233">LinkedIn</a> ·
-  <a href="mailto:gabrielmedeirossoftware@gmail.com">gabrielmedeirossoftware@gmail.com</a> ·
+  <a href="mailto:gabrielmedeirossoftware@gmail.com">gabrymedeiros7@gmail.com</a> ·
   <a href="https://www.leetcode.com/medeiross">LeetCode</a>
 </p>
